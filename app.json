@@ -1,0 +1,18 @@
+{
+  "name": "pdaActivator",
+  "displayName": "ativador de promocoes do pda",
+  "expo": {
+    "name": "pdaActivator",
+    "slug": "gbomfim-pda-activator",
+    "privacy": "unlisted",
+    "sdkVersion": "35.0.0",
+    "version": "1.0.0",
+    "entryPoint": "node_modules/expo/AppEntry.js",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "description": ""
+  }
+}
